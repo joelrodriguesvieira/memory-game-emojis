@@ -1,0 +1,32 @@
+@media screen and (max-width:460px) {
+    body {
+        min-height: 50vh;
+    }
+
+    main {
+        height: 100vh;
+        width: 100vw;
+        padding: 10px;
+    }
+
+    main h2 {
+        font-size: 2.3em;
+        margin-bottom: 30px;
+    }
+
+    .game {
+        width: 350px;
+        height: 350px;
+    }
+
+    .reset {
+        width: 350px;
+        padding: 10px 10px;
+    }
+
+    .item {
+        width: 80px;
+        height: 80px;
+        font-size: 2.4em;
+    }
+}
